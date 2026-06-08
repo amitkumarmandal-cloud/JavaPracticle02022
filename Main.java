@@ -10,6 +10,7 @@ class Contact {
 
     // Constructor
     public Contact(String name, String phone, String email, String city) {
+        // Using this keyword for current refrence 
         this.name = name;
         this.phone = phone;
         this.email = email;
