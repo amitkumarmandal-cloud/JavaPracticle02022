@@ -70,6 +70,7 @@ class Directory {
 
     // Display All Contacts
     public void displayAll() {
+        // use if else for condition cheaking 
 
         if (count == 0) {
             System.out.println("No contacts found.");
