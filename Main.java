@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-// Contact Class
+// Contact Class 
 class Contact {
+    // for hidding the data from user/customer using private keyword
     private String name;
     private String phone;
     private String email;
